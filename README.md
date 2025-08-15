@@ -111,5 +111,5 @@
 ![Snake animation](https://github.com/felpsbrz/felpsbrz/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9745f5,100:00c6ff&height=100&section=footer"/>
