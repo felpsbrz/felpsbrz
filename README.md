@@ -56,14 +56,14 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&font=Iosevka&langs_count=16&theme=midnight_lightblue"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Resumo Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felpsbrz&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felpsbrz&theme=midnight_lightblue"
   />
   <br>
   <br>
@@ -71,7 +71,7 @@
     height=154
     align="center"
     alt="Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=felpsbrz&theme=midnight-purple&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=felpsbrz&theme=midnight_lightblue&card_width=885"
   />
   </div>
 
@@ -110,10 +110,7 @@
 
 </details>
 
-<br>
-
 ![Snake animation](https://github.com/felpsbrz/felpsbrz/blob/output/github-contribution-grid-snake.svg)
 
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9745f5,100:00c6ff&height=100&section=footer"/>
