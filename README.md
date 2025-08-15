@@ -24,7 +24,8 @@ Atualmente, estou me aprofundando em **Desenvolvimento Web**, **Unity3D** e **In
 <a href="mailto:felpsfatec@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&reversal=true)
+
+
 
 ---
 
