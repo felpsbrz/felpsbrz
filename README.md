@@ -30,7 +30,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Unity3D;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Sou+do+Brasil;Desenvolvedor+Web+e+Mobile;Apaixonado+por+Tecnologia;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -56,14 +56,14 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&font=Iosevka&langs_count=16&theme=midnight_lightblue"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsbrz&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Resumo Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felpsbrz&theme=midnight_lightblue"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felpsbrz&theme=midnight_purple"
   />
   <br>
   <br>
@@ -71,14 +71,12 @@
     height=154
     align="center"
     alt="Streak Stats"
-    src="https://github-readme-streak-stats.herokuapp.com?user=felpsbrz&theme=midnight_lightblue&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=felpsbrz&theme=midnight-purple&card_width=885"
   />
   </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -110,7 +108,10 @@
 
 </details>
 
+
+
 ![Snake animation](https://github.com/felpsbrz/felpsbrz/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9745f5,100:00c6ff&height=100&section=footer"/>
