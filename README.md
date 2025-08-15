@@ -19,7 +19,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/hmD0KIs.png" width="200">
+  <img src="https://png.pngtree.com/png-vector/20220725/ourmid/pngtree-devops-scheme-software-development-lifecycle-png-image_6066231.png" width="200">
 </div>
 <br>
 <div align="center">
